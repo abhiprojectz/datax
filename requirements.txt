@@ -1,0 +1,9 @@
+moviepy
+Pillow
+python-xlib
+pyvirtualdisplay
+googletrans==4.0.0-rc1
+imageio-ffmpeg
+gTTS
+textwrap3
+python-pptx
