@@ -40,3 +40,6 @@ wget https://www.chosic.com/wp-content/uploads/2022/04/Starlight-Tale-Soft-Class
 
 cd ..
 
+mkdir imgs
+mkdir generated
+mkdir outputs
